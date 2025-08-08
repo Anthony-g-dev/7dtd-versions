@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2025-08-08T00:41:23.205186Z",
+  "versions": [
+    {
+      "id": "alpha21.2",
+      "display_name": "Alpha 21.2 b37",
+      "release_date": "2023-11-20",
+      "steam_branch": "latest_stable",
+      "app_id": "251570",
+      "depot_id": "251571",
+      "estimated_size_gb": 15.2,
+      "is_stable": true,
+      "is_experimental": false,
+      "notes": "Latest stable version"
+    },
+    {
+      "id": "alpha21.1",
+      "display_name": "Alpha 21.1 b16",
+      "release_date": "2023-08-09",
+      "steam_branch": "alpha21.1",
+      "app_id": "251570",
+      "depot_id": "251571",
+      "estimated_size_gb": 15.0,
+      "is_stable": true,
+      "is_experimental": false,
+      "notes": "Previous stable"
+    },
+    {
+      "id": "alpha20.7",
+      "display_name": "Alpha 20.7 b1",
+      "release_date": "2023-06-12",
+      "steam_branch": "alpha20.7",
+      "app_id": "251570",
+      "depot_id": "251571",
+      "estimated_size_gb": 14.5,
+      "is_stable": true,
+      "is_experimental": false,
+      "notes": "Alpha 20 final"
+    },
+    {
+      "id": "alpha20.6",
+      "display_name": "Alpha 20.6 b9",
+      "release_date": "2022-07-23",
+      "steam_branch": "alpha20.6",
+      "app_id": "251570",
+      "depot_id": "251571",
+      "estimated_size_gb": 14.3,
+      "is_stable": true,
+      "is_experimental": false,
+      "notes": null
+    },
+    {
+      "id": "alpha19.6",
+      "display_name": "Alpha 19.6 b8",
+      "release_date": "2021-07-20",
+      "steam_branch": "alpha19.6",
+      "app_id": "251570",
+      "depot_id": "251571",
+      "estimated_size_gb": 12.8,
+      "is_stable": true,
+      "is_experimental": false,
+      "notes": "Alpha 19 final"
+    },
+    {
+      "id": "latest_experimental",
+      "display_name": "Latest Experimental",
+      "release_date": null,
+      "steam_branch": "latest_experimental",
+      "app_id": "251570",
+      "depot_id": "251571",
+      "estimated_size_gb": 15.5,
+      "is_stable": false,
+      "is_experimental": true,
+      "notes": "Latest experimental build - may be unstable"
+    }
+  ]
+}
